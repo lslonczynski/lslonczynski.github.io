@@ -1,10 +1,9 @@
 ---
-title: Your first seed
+title: Taki blog na przykład mój drogi bombonie :D
 ---
 
 ### Welcome!
-
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+To Twoja pierwsza notka. Znajdziesz ją w [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 ### Link syntax
 
