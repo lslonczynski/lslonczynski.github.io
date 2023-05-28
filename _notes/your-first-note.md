@@ -1,8 +1,8 @@
 ---
-title: Taki blog na przykład mój drogi bombonie :D
+title: Taki blog na przykład mój drogi Bombonie :D
 ---
 
-### Welcome!
+### Witaj!
 To Twoja pierwsza notka. Znajdziesz ją w [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 ### Link syntax
